@@ -9,8 +9,11 @@ Nearest neighbor classification algorithm is slow for large datasets since every
 it compares every single point in testing set with all the training data points. Therefore in order
 to speed up the Nearest neighbor classification one of the strategy is to carefully select subset of
 ”prototypes” from training set which can give good classification performance. <br>
+<br>
 In this project I explore strategies for prototype-selection algorithm which are used by 1-NN model over MNIST data, bearing
-in mind that the ultimate goal is good classification performance on test data.
+in mind that the ultimate goal is good classification performance on test data. <br>
+For my details, check out [<code>project 1/CSE_251A__Mini_Project_final.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%201/CSE_251A__Mini_Project_final.pdf).
+
 
 ## Project Organization
 
