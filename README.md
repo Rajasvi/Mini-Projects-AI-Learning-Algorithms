@@ -1,7 +1,7 @@
 CSE 251A | AI:Learning Algorithms
 ==============================
 
-During this course, I worked on various Mini Projects exploring/experimenting with various ML algorithms. Details for individual projects can be found below:
+During this course, I worked on various Mini Projects exploring/experimenting various ML algorithms. Please find below the details for individual projects:
 
 
 ## Mini Project 1: Prototype selection algorithm 
