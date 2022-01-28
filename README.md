@@ -17,8 +17,8 @@ in mind that the ultimate goal is good classification performance on test data.
     ├── LICENSE
     ├── README.md                       <- The top-level README for developers using this project.
     ├── project 1
-    │   ├── data      	  	             <- Data used for experiments
-    │   └── report         		       <- Final submission report
+    │   ├── data      	  	            <- Data used for experiments
+    │   └── report         		        <- Final submission report
     │   └── sandbox.ipynb               <- Main Code 
     │   └── problem_statement.pdf       <- Problem statement 
 
