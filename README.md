@@ -12,6 +12,7 @@ to speed up the Nearest neighbor classification one of the strategy is to carefu
 <br>
 In this project I explore strategies for prototype-selection algorithm which are used by 1-NN model over MNIST data, bearing
 in mind that the ultimate goal is good classification performance on test data. <br>
+<br>
 For more details, please check out the report: [<code>project 1/CSE_251A__Mini_Project_final.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%201/CSE_251A__Mini_Project_final.pdf).
 
 
@@ -20,8 +21,8 @@ For more details, please check out the report: [<code>project 1/CSE_251A__Mini_P
     ├── LICENSE
     ├── README.md                       <- The top-level README for developers using this project.
     ├── project 1
-    │   ├── data      	  	            <- Data used for experiments
-    │   └── report         		        <- Final submission report
+    │   ├── data                        <- Data used for experiments
+    │   └── report                      <- Final submission report
     │   └── sandbox.ipynb               <- Main Code 
     │   └── problem_statement.pdf       <- Problem statement 
 
