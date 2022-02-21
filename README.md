@@ -13,15 +13,15 @@ to speed up the Nearest neighbor classification one of the strategy is to carefu
 In this project I explore strategies for prototype-selection algorithm which are used by 1-NN model over MNIST data, bearing
 in mind that the ultimate goal is good classification performance on test data. <br>
 <br>
-For more details, please check out the report: [<code>project 1/CSE_251A__Mini_Project_final.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%201/report.pdf).
+For more details, please check out the report: [<code>project 1/report.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%201/report.pdf).
 
 ## Mini Project 2: Coordinate Descent 
-Considering standard unconstrained optimization problem of minimizing Loss funtion (L(w)) where L(·) is cost function
-and w ∈ R^d, in this project we plan to explore different ways of solving such problems other than standard - gradient descent and stochastic gradient descent - which work under differentiability conditions on L(w). Rephrasing the problem in much simpler way I plan to propose a coordinate descent technique where we initialize a w, followed by repeated process of picking a coordinate i ∈{1,2,...,d} and updating the value of w_i with an aim to reduce the loss. 
+Considering standard unconstrained optimization problem of minimizing Loss funtion L(w) where L(·) is cost function
+and w ∈ R^d, in this project we plan to explore different ways of solving such problems other than standard - gradient descent and stochastic gradient descent - which work under differentiability conditions on L(w). Rephrasing the problem in much simpler way I plan to propose a coordinate descent technique where we initialize a w, followed by repeated process of picking a coordinate i ∈{1,2,...,d} and updating the value of w_i with an aim to reduce the loss. <br>
 <br>
-Primarily, we focus on answering two questions: (a) Which coordinate to choose? (b) How to set the new value of w_i?
+Primarily, we focus on answering two questions: (a) Which coordinate to choose? (b) How to set the new value of w_i? <br>
 <br>
-For more details, please check out the report: [<code>project 1/CSE_251A__Mini_Project_final.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%202/report.pdf).
+For more details, please check out the report: [<code>project 2/report.pdf</code>](https://github.com/Rajasvi/Mini-Projects-AI-Learning-Algorithms/blob/master/project%202/report.pdf).
 
 
 ## Project Organization
